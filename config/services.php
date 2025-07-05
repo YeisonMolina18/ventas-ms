@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'inventario' => [
+        'base_uri' => env('INVENTARIO_API_URL'),
+    ],
+
 ];
